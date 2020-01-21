@@ -2,6 +2,9 @@ package com.example.demo.bean;
 
 import org.springframework.web.multipart.MultipartFile;
 
+/**
+ * hotfix v0.1.1
+ */
 public class DemoDTO {
 
     private String projectId;
