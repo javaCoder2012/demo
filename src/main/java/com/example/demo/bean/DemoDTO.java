@@ -4,6 +4,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 /**
  * dev-1.0.0
+ * hotfix v0.1.1
  */
 public class DemoDTO {
 
