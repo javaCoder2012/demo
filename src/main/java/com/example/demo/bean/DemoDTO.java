@@ -3,7 +3,7 @@ package com.example.demo.bean;
 import org.springframework.web.multipart.MultipartFile;
 
 /**
- * dev-1.0
+ * dev-1.0.0
  */
 public class DemoDTO {
 
